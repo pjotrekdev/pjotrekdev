@@ -1,16 +1,13 @@
-### Hi there 👋
+![pjotrek](https://cdn.discordapp.com/attachments/781418730038493185/901361420128636948/pjotrek.png)
 
-<!--
-**pjotrekdev/pjotrekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who's pjotrek?
+----------------
+Pjotrek is just me.
+I love to listen music, talk with friends, make graphics!
 
-Here are some ideas to get you started:
+* [Explore my first site]()
+* [Explore my projects](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact: pjotrek#8888 (discord)
+----
+
