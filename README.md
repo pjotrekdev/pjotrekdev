@@ -4,7 +4,7 @@
 
 Pjotrek is just me.
 I love to listen music, talk with friends, make graphics!
-* Contact: pjotrek#8888
+* Contact: pjotrek#3333
 * [Check my About Me site!](https://pjotrekdev.github.io)
 * [Explore my projects](https://github.com/pjotrekdev)
 
